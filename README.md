@@ -1,28 +1,45 @@
 # 👋 Hi, I’m Tahir Mansuri!
 
-Welcome to my GitHub profile! I'm passionate about cloud administration, technology, and learning how to leverage cloud platforms to solve real-world challenges.
-
-- 👀 I’m interested in **cloud administration, cloud computing, networking, and automation**.
-- 🌱 I’m currently learning **Azure, AWS, cloud infrastructure management, and advanced cloud automation**.
-- 💞️ I’m looking to collaborate on **cloud administration projects, infrastructure automation, and DevOps-related tasks**.
-- 📫 How to reach me:
-   - **Email**: [ishanmansuri2@gmail.com](mailto:ishanmansuri2@gmail.com)
-   - **LinkedIn**: [Tahir Mansuri LinkedIn](https://www.linkedin.com/in/tahirmansuri/)
-   - **Twitter**: [@tahirmansuri_](https://x.com/tahirmansuri_)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I enjoy solving real-world challenges by implementing cloud solutions and empowering others with knowledge.
+Welcome to my GitHub profile! I'm passionate about **cloud administration**, technology, and using cloud platforms to solve real-world challenges.
 
 ---
 
-## 🛠️ Tools & Technologies I Use
-
-- **Cloud Platforms**: Azure, AWS (primarily focusing on administration and management)
-- **Scripting Languages**: Python, Bash
-- **Cloud Automation**: Terraform, PowerShell
-- **Monitoring & Management Tools**: Azure Monitor, CloudWatch
-- **Version Control**: Git, GitHub
-- **Other**: Docker, Kubernetes, Virtualization (Hyper-V, VMware)
+## 🚀 What I’m Currently Working On
+- 🌩️ Mastering Microsoft Azure & AWS
+- 📚 Preparing for SC-900 and MS-900 certifications
+- ⚙️ Building automation projects with PowerShell and Terraform
 
 ---
 
-Thank you for visiting my profile! I'm currently honing my cloud administration skills, with plans to transition to cloud engineering in the future. Feel free to reach out if you're interested in collaborating or have any cloud-related projects in mind.
+## 🧠 Currently Learning
+- Azure Resource Manager (ARM) Templates
+- Azure Monitor & CloudWatch
+- Linux & Shell Scripting
+
+---
+
+## 🤝 Looking to Collaborate On
+- Cloud administration & automation
+- DevOps pipelines (CI/CD)
+- Infrastructure as Code (IaC)
+
+---
+
+## 📫 Reach Me At
+- ✉️ Email: ishanmansuri2@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tahirmansuri)
+- 🐦 [Twitter: @tahirmansuri_](https://twitter.com/tahirmansuri_)
+
+---
+
+## 🛠️ Tech Stack
+- **Cloud Platforms**: Azure, AWS
+- **Scripting**: Python, Bash, PowerShell
+- **DevOps Tools**: Git, GitHub, Docker, Terraform
+- **Monitoring**: Azure Monitor, CloudWatch
+- **Virtualization**: Hyper-V, VMware
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving complex problems with simple, automated cloud solutions and empowering others to do the same!
