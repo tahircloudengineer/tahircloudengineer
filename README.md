@@ -1,45 +1,108 @@
-# 👋 Hi, I’m Tahir Mansuri!
 
-Welcome to my GitHub profile! I'm passionate about **cloud administration**, technology, and using cloud platforms to solve real-world challenges.
+Tahir Mansuri — Azure Cloud & Infrastructure Administrator
 
----
+🌐 Azure Cloud Administrator | Cloud Support | Automation📍 Kolkata, India — Open to opportunities in India & Abroad✉️ ishanmansuri2@gmail.com 
 
-## 🚀 What I’m Currently Working On
-- 🌩️ Mastering Microsoft Azure & AWS
-- 📚 Preparing for SC-900 and MS-900 certifications
-- ⚙️ Building automation projects with PowerShell and Terraform
+🔹 Professional Summary
 
----
+Results-driven Azure Cloud Administrator with 5.6 years of total experience (3.5 years in Azure infrastructure & support).Proven ability to deploy, secure, monitor, and optimize enterprise cloud environments while reducing costs and improving efficiency.Hands-on expertise in Virtual Machines, Networking, Storage, Identity Access, and Automation. Adept at cross-team collaboration, incident resolution, and continuous improvement.Actively seeking cloud administration roles in India or overseas.
 
-## 🧠 Currently Learning
-- Azure Resource Manager (ARM) Templates
-- Azure Monitor & CloudWatch
-- Linux & Shell Scripting
 
----
+🛠 Technical Skills & Tools
 
-## 🤝 Looking to Collaborate On
-- Cloud administration & automation
-- DevOps pipelines (CI/CD)
-- Infrastructure as Code (IaC)
+☁ Cloud Platforms & Services
 
----
+Azure: VMs, VNETs, NSGs, Load Balancer, Route Tables, Site Recovery, Backup, Key Vault, App Gateway, Cost Management, Azure Policy, Azure Monitor, Log Analytics, Defender for Cloud
 
-## 📫 Reach Me At
-- ✉️ Email: ishanmansuri2@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tahirmansuri)
-- 🐦 [Twitter: @tahirmansuri_](https://twitter.com/tahirmansuri_)
+Identity & Access: Microsoft Entra ID (Azure AD), RBAC, Conditional Access, MFA, IAM
 
----
+Other Clouds: AWS (Basics), Oracle Cloud Infrastructure (OCI Foundations)
 
-## 🛠️ Tech Stack
-- **Cloud Platforms**: Azure, AWS
-- **Scripting**: Python, Bash, PowerShell
-- **DevOps Tools**: Git, GitHub, Docker, Terraform
-- **Monitoring**: Azure Monitor, CloudWatch
-- **Virtualization**: Hyper-V, VMware
+⚙ Infrastructure & IaC
 
----
+Azure Resource Manager (ARM Templates)
 
-## ⚡ Fun Fact
-I enjoy solving complex problems with simple, automated cloud solutions and empowering others to do the same!
+Bicep (build & lint), Terraform (basics)
+
+Infrastructure Concepts: IaaS, PaaS, DR/BCP, Hybrid Networking (VPN, ExpressRoute)
+
+🔄 Automation & Scripting
+
+PowerShell, Azure CLI, Bash (basic)
+
+Azure Automation Runbooks
+
+GitHub Actions for CI/CD
+
+🔍 Monitoring & Security
+
+Azure Monitor, Log Analytics, Activity Logs
+
+Security Center / Microsoft Defender for Cloud
+
+BitLocker, Firewalls, Encryption, Compliance Policies
+
+📊 ITSM & Support Tools
+
+ServiceNow, JIRA, Zendesk, Salesforce
+
+Incident & Change Management, RCA, SOP Documentation
+
+🗣 Languages
+
+English, Arabic, Urdu, Hindi, Bengali
+
+
+💼 Professional Experience
+
+Cloud Administrator — Nano Tech E ServicesJan 2024 – Jul 2025 | Bengaluru, India
+
+Managed 100+ Azure VMs with 99.9% uptime and implemented secure subnet design with NSGs & route tables.
+
+Automated VM lifecycle & backup operations → saved ~10 hrs/week.
+
+Built proactive Azure Monitor dashboards & alerts for faster issue detection.
+
+Enforced RBAC & Conditional Access for 200+ users; improved security posture.
+
+Reduced Azure spend by 18% using Cost Management recommendations.
+
+Applied Azure Policy for consistent tagging & compliance.
+
+
+Cloud Support Associate — AccentureDec 2021 – Dec 2023 | Kolkata, India
+
+Resolved 1000+ incidents (compute, networking, identity) within SLA.
+
+Conducted RCA using Log Analytics, Service Health, Activity Logs.
+
+Supported VPN Gateway & hybrid network troubleshooting.
+
+Created 30+ SOPs to reduce repeat incidents.
+
+Maintained 90%+ SLA compliance.
+
+Virtual Customer Support — AmazonFeb 2020 – Jun 2021 | Remote, India
+
+95% CSAT across voice, email, and chat channels.
+
+Handled 80+ daily interactions with 90% first-contact resolution.
+
+
+📜 Certifications
+
+AZ-104: Azure Administrator Associate
+
+AZ-900: Azure Fundamentals
+
+MS-102: Microsoft 365 Administrator
+
+OCI Foundations Associate
+
+Google IT Support Professional
+
+(Preparing) SC-900: Security, Compliance & Identity Fundamentals
+
+🎓 Education
+
+Bachelor of Arts in English — St. Xavier’s College, Kolkata (2015–2018)
